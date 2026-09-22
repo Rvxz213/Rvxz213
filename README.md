@@ -1,4 +1,5 @@
-# Hey there! 👋 I'm Alfa Putra
+# Hello World! 
+👋 I'm Alfa Putra
 <img align="right" width="250" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" alt="hacker-glitch-gif">
 
 | mostly infront monitor | quase 19h per day | except sleep |
