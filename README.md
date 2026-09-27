@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 *   🔭 **Current Project:** Working on the [Maintenance Dashboard](https://github.com/Rvxz213/maintenance-app).
-*   🎓 **Education:** Cybersecurity & Network Security Student at **Telkom University**.
+*   🎓 **Education:** Cybersecurity & Fullstack Dev Student at **Telkom University**.
 *   📡 **Location:** Based in **Bandung,Jakarta,Tangerang Selatan**.
 *   🌐 **Portfolio:** Find more about me at [f0reest.netlify.app](https://f0reest.netlify.netlify.app/).
 *   💬 Ask me about: Networks, Cybersecurity, or any of my other projects!
