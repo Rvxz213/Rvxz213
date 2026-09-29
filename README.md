@@ -1,66 +1,75 @@
-<div align="center">
-  <h1>Hello World! 👋 I'm Alfa Putra <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="30px"></h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1BA0D7&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Fullstack+Developer;Network+Enthusiast" alt="Typing SVG" />
-  
-  <p><i>Mostly in front of the monitor | ~19h per day | Except sleep</i> 💻☕</p>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1BA0D7&height=200&section=header&text=Hello%20World!%20👋&fontSize=50&fontColor=ffffff&desc=I'm%20Alfa%20Putra&descAlignY=76&descSize=25" width="100%"/>
 
-  <img src="https://komarev.com/ghpvc/?username=Rvxz213&label=Profile%20Views&color=1BA0D7&style=flat-square" alt="Profile Views" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1BA0D7&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+at+Telkom+Univ;IT+Network+%26+Fullstack+Developer;Mostly+in+front+of+the+monitor...;~19h+per+day+|+Except+sleep" alt="Typing SVG" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Rvxz213&label=Profile%20Views&color=1BA0D7&style=for-the-badge" alt="Profile Views" />
 </div>
 
----
+<br><br>
 
-### 👨‍💻 About Me
+### 👨‍💻 Who am I?
 
-<img align="right" width="300" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" alt="hacker-glitch-gif">
-
-*   🔭 **Current Project:** Working on the [Maintenance Dashboard](https://github.com/Rvxz213/maintenance-app).
-*   🎓 **Education:** Cybersecurity & Fullstack Dev Student at **Telkom University**.
-*   📡 **Location:** Based in **Bandung | Jakarta | Tangerang Selatan**.
-*   🌐 **Portfolio:** Check out my work at [f0reest.netlify.app](https://f0reest.netlify.app).
-*   💬 **Ask me about:** Networks, Cybersecurity, Fullstack Dev, or any of my projects!
-*   😄 **Pronouns:** he/him.
-*   ⚡ **Fun fact:** I basically live on the command line.
+<table>
+  <tr>
+    <td width="65%">
+      <ul>
+        <li>🔭 <b>Current Focus:</b> Working on <a href="https://github.com/Rvxz213/maintenance-app">Maintenance Dashboard</a> & Discord Security Bots.</li>
+        <li>🎓 <b>Education:</b> Cybersecurity & Fullstack Dev Student at <b>Telkom University</b>.</li>
+        <li>📡 <b>Location:</b> Based in <b>Bandung | Jakarta | Tangerang Selatan</b>.</li>
+        <li>💼 <b>Freelance/Services:</b> Network config, Web Dev, and Game Server Management (F0KS Store).</li>
+        <li>🌐 <b>Portfolio:</b> Check out my work at <a href="https://f0reest.netlify.app">f0reest.netlify.app</a>.</li>
+        <li>💬 <b>Ask me about:</b> Network Engineering, Cybersec, Node.js, or E-sports!</li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" alt="Hacker Gif" width="100%">
+    </td>
+  </tr>
+</table>
 
 <br>
 
-### 🛠️ Skills & Tools
+### 🛠️ Tech Stack & Tools
 
-**🌐 Web Development**
+**🌐 Software & Web Development**  
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mysql,php,linux,docker,bash,git,github&perline=14" alt="Skill Icons" />
+  </a>
 </p>
 
-**📡 Networking, Systems & Security**
+**📡 Networking, Systems & Security**  
 <p align="left">
   <img src="https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logo=mikrotik&logoColor=white" alt="mikrotik" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
   <img src="https://img.shields.io/badge/TCP%2FIP-333333?style=for-the-badge" alt="tcp/ip" />
   <img src="https://img.shields.io/badge/Cybersecurity-8A2BE2?style=for-the-badge&logo=kalilinux&logoColor=white" alt="cybersecurity" />
-  <img src="https://img.shields.io/badge/Bash%2FShell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim" />
 </p>
 
 <br>
 
-### 📈 GitHub Stats 
+### 🏆 GitHub Achievements & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rvxz213&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Rvxz213's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rvxz213&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Rvxz213's top langs" width="48%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rvxz213&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
+  </a>
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rvxz213&theme=github_dark&hide_border=true&background=0D1117" alt="Rvxz213's streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rvxz213&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rvxz213's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rvxz213&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rvxz213's top langs" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rvxz213&bg_color=0D1117&color=1BA0D7&line=1BA0D7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="98%" />
 </div>
 
 <br>
@@ -73,8 +82,5 @@
   <a href="https://www.tiktok.com/@f0reest" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@f0reest-tiktok" /></a>
 </div>
 
-<br>
-
-<div align="center">
-  <i>Let's build something awesome together! 🚀</i>
-</div>
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1BA0D7&height=100&section=footer" width="100%"/>
