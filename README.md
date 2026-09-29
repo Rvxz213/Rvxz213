@@ -1,26 +1,32 @@
-# Hello World! 
-👋 I'm Alfa Putra
-<img align="right" width="250" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" alt="hacker-glitch-gif">
+<div align="center">
+  <h1>Hello World! 👋 I'm Alfa Putra <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="30px"></h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1BA0D7&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Fullstack+Developer;Network+Enthusiast" alt="Typing SVG" />
+  
+  <p><i>Mostly in front of the monitor | ~19h per day | Except sleep</i> 💻☕</p>
 
-| mostly infront monitor | quase 19h per day | except sleep |
-|---|---|---|---|---|
+  <img src="https://komarev.com/ghpvc/?username=Rvxz213&label=Profile%20Views&color=1BA0D7&style=flat-square" alt="Profile Views" />
+</div>
 
-<br>
+---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" alt="hacker-glitch-gif">
 
 *   🔭 **Current Project:** Working on the [Maintenance Dashboard](https://github.com/Rvxz213/maintenance-app).
 *   🎓 **Education:** Cybersecurity & Fullstack Dev Student at **Telkom University**.
-*   📡 **Location:** Based in **Bandung,Jakarta,Tangerang Selatan**.
-*   🌐 **Portfolio:** Find more about me at [Alfa Putra Portofolio](https://f0reest.netlify.netlify.app).
-*   💬 Ask me about: Networks, Cybersecurity, or any of my other projects!
-*   😄 Pronouns: he/him.
+*   📡 **Location:** Based in **Bandung | Jakarta | Tangerang Selatan**.
+*   🌐 **Portfolio:** Check out my work at [f0reest.netlify.app](https://f0reest.netlify.app).
+*   💬 **Ask me about:** Networks, Cybersecurity, Fullstack Dev, or any of my projects!
+*   😄 **Pronouns:** he/him.
+*   ⚡ **Fun fact:** I basically live on the command line.
 
 <br>
 
-## 🛠️ Skills & Tools
+### 🛠️ Skills & Tools
 
-### 🌐 Web Development
+**🌐 Web Development**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
@@ -32,7 +38,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
 </p>
 
-### 📡 Networking & Systems
+**📡 Networking, Systems & Security**
 <p align="left">
   <img src="https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logo=mikrotik&logoColor=white" alt="mikrotik" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco" />
@@ -46,23 +52,29 @@
 
 <br>
 
-## 📈 GitHub Stats Cards
+### 📈 GitHub Stats 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rvxz213&show_icons=true&theme=github_dark&v=1" alt="Rvxz213's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rvxz213&layout=compact&theme=github_dark&v=1" alt="Rvxz213's top langs" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rvxz213&theme=github_dark" alt="Rvxz213's streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rvxz213&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Rvxz213's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rvxz213&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Rvxz213's top langs" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rvxz213&theme=github_dark&hide_border=true&background=0D1117" alt="Rvxz213's streak" />
+</div>
 
 <br>
 
-## 🤝 Connect with Me
+### 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://f0reest.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio%20Web-5391FE?style=for-the-badge&logo=Netlify&logoColor=white" alt="f0reest-website" /></a>
-  <a href="https://www.tiktok.com/@f0reest" target="blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@f0reest-tiktok" /></a>
-  <a href="https://linkedin.com/in/alfa-putra-0554b8205" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AlfaPutra-linkedin" /></a>
-</p>
+<div align="center">
+  <a href="https://f0reest.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20Web-5391FE?style=for-the-badge&logo=Netlify&logoColor=white" alt="f0reest-website" /></a>
+  <a href="https://linkedin.com/in/alfa-putra-0554b8205" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AlfaPutra-linkedin" /></a>
+  <a href="https://www.tiktok.com/@f0reest" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@f0reest-tiktok" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <i>Let's build something awesome together! 🚀</i>
+</div>
