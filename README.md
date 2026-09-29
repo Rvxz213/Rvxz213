@@ -1,136 +1,165 @@
 <div align="center">
-  <!-- Dynamic Animated Header with Twinkling Effect -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF,8A2BE2&height=220&section=header&text=f0reest&fontSize=85&fontColor=ffffff&animation=twinkling&desc=Alfa%20Putra%20|%20Cybersec%20|%20Network%20|%20E-Sports&descAlignY=70&descSize=20" width="100%"/>
-</div>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/f0reest">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=800&lines=>+System.boot();>+Access+Granted:+Welcome+to+my+Node;>+Cybersec+%26+Fullstack+Student+@+Telkom+Univ;>+IT+Network+Engineer;>+Founder+of+F0KS+Store" alt="Typing SVG" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Alfa%20Putra&desc=Founder%20of%20F0KS%20Store&fontSize=60&fontColor=39ff14&descSize=20&descColor=39ff14&animation=fadeIn&fontAlignY=34&descAlignY=55&color=0:000000,100:0a0f0a" />
   </a>
+</p>
+<p align="center">
+  <a href="https://f0reest.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Open_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=39ff14&color=39ff14&labelColor=000000" />
+  </a>
+  <a href="https://youtube.com/@f0reestfps" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_F0reest_FPS-000000?style=for-the-badge&logo=youtube&logoColor=39ff14&color=39ff14&labelColor=000000" />
+  </a>
+</p>
+
+<br>
+
+  <a href="#">
+    <img src="https://media.tenor.com/3v2pOuthO0UAAAAM/gaming.gif" width="420" height="460"/>
+  </a>
+
 </div>
 
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=f0reest&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Views" />
-  <img src="https://img.shields.io/github/followers/f0reest?label=Followers&style=for-the-badge&color=00C3FF&logo=github" alt="Followers" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=Open+Terminal;+cmd+%7C+bash+%7C+powershell;Initializing+Terminal...;Accessing+Secure+System...;Identity+Verified:+Alfa+Putra+(f0reest);Role:;+Cybersec+%7C+Network+Eng+%7C+Fullstack;System+Status:+ONLINE+✔" />
+
+<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="85%" height="2px"/>
+
 </div>
 
 <br>
 
-## 👨‍💻 `~ /sys/about_me`
+<div align="center">
 
-<table>
-  <tr>
-    <td width="65%">
-      <i>"Mostly in front of the monitor | ~19h per day | Except sleep"</i><br><br>
-      🛡️ <b>Current Focus:</b> Cybersecurity & Fullstack Dev at <b>Telkom University</b>.<br>
-      🔭 <b>Active Projects:</b> <a href="https://github.com/f0reest/maintenance-app">Maintenance Dashboard</a> & Personal Node.js Security Bots (Pterodactyl Panel).<br>
-      📡 <b>Networking:</b> Cisco & MikroTik Administration, System Latency Tuning.<br>
-      💼 <b>Business:</b> Founder of <b>F0KS Store</b> (Gaming services & Code Redeem).<br>
-      📍 <b>Location:</b> Bandung | Jakarta | Tangerang Selatan.<br>
-      📫 <b>Contact me for:</b> Dev collaboration, network config, or gaming content!
-    </td>
-    <td width="35%" align="center">
-      <!-- Aesthetic Cyber/Setup GIF -->
-      <img src="https://i.pinimg.com/originals/a7/67/60/a767606b2512f716ce032a939fde11bc.gif" alt="Cyber GIF" width="100%" style="border-radius: 12px; border: 1px solid #333;">
-    </td>
-  </tr>
+<pre>
+
+<a href="https://f0reest.netlify.app" target="_blank" style="color:#39ff14; text-decoration:none;">
+~root@f0reest:~$</a>$ whoami
+> Alfa Putra
+
+$ role
+> Cybersecurity Student | Network Engineer | Fullstack Dev
+
+$ status
+> ACTIVE • SECURING NETWORKS • BUILDING APPS
+
+$ open portfolio
+> https://f0reest.netlify.app
+</pre>
+
+---
+
+## 🧪 System & Infrastructure Modules
+
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39ff14)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=for-the-badge&logo=ubuntu&logoColor=39ff14)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=39ff14)
+![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=39ff14)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=39ff14)
+![Neovim](https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=39ff14)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39ff14)
+![Cisco](https://img.shields.io/badge/Cisco-0d1117?style=for-the-badge&logo=cisco&logoColor=39ff14)
+![MikroTik](https://img.shields.io/badge/MikroTik-0d1117?style=for-the-badge&logo=mikrotik&logoColor=39ff14)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-0d1117?style=for-the-badge&logoColor=39ff14)
+![Discord API](https://img.shields.io/badge/Discord_API-0d1117?style=for-the-badge&logo=discord&logoColor=39ff14)
+
+<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39ff14&center=true&vCenter=true&width=750&lines=I'm+Cybersec+%26+Network+Engineer;Always+Learning+New+Things;Welcome+to+My+Github+Profile!;Initializing+System...;Loading+Developer+Profile...;Access+Granted+✔;Welcome+to+My+GitHub+Terminal)](https://git.io/typing-svg)
+
+🟢 **SYSTEM INFO**
+- 🌱 Current Ops: `Maintenance Dashboard · Discord Security Bots`
+- 🤝 Collaboration: `OPEN FOR DEV & NETWORK CONFIG`
+- 📫 Contact: `Discord | WhatsApp | LinkedIn`
+
+  <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
+
+---
+
+## 🧪 DEV TECH MODULES LOADED
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=39ff14)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=39ff14)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=39ff14)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=39ff14)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=39ff14)
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=39ff14)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39ff14)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=39ff14)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=39ff14)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=39ff14)
+
+<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=f0reest&theme=github_dark" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=f0reest&theme=github_dark" width="49%" />
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/hackerman.gif" height="140px"/>
+</div>
+
+---
+
+## 📡 SYSTEM ANALYTICS
+
+<table width="100%" align="center">
+<tr>
+<td width="50%" align="center">
+
+### 📊 CORE METRICS
+<img src="https://github-readme-stats.vercel.app/api?username=f0reest&show_icons=true&hide_border=true&bg_color=000000&title_color=39ff14&icon_color=39ff14&text_color=39ff14" />
+
+</td>
+
+<td width="50%" align="center">
+
+### 🔥 ACTIVITY TRACE
+<img src="https://github-readme-streak-stats.herokuapp.com?user=f0reest&hide_border=true&background=000000&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" />
+
+</td>
+</tr>
 </table>
 
-<br>
+### 🧩 LANGUAGE DISTRIBUTION
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=f0reest&layout=compact&hide_border=true&bg_color=000000&title_color=39ff14&text_color=39ff14" />
+</p>
 
-## 🎮 `~ /sys/esports_profile`
-
-<details>
-  <summary><b>🔥 Click to Reveal my Gaming & E-Sports Alter-Ego!</b></summary>
-  <br>
-  <table>
-    <tr>
-      <td width="50%">
-        <b>PUBG PC & Valorant</b><br>
-        - 🎯 <b>Role:</b> Fragger<br>
-        - 🛡️ <b>Team/Squad:</b> s1yu / PAGUYUBAN PENIPU<br>
-        - 🎧 <b>Audio:</b> FxSound Optimizer<br>
-        - 🎥 <b>Content:</b> Streamer & Thumbnail Creator at <a href="https://youtube.com/@f0reestfps"><b>f0reest fps</b></a>.
-      </td>
-      <td width="50%">
-        <b>Roblox & Graphics</b><br>
-        - 🎨 <b>Design:</b> Creating thumbnails, OBS Overlays, & apparel mockups (PDH).<br>
-        - 🌐 <b>Maps:</b> Giring Hidden Club & Giring Hangout map graphics.
-      </td>
-    </tr>
-  </table>
-</details>
-
-<br>
-
-## ⚡ `~ /sys/tech_arsenal`
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>🌐 Web & Software Development</b><br><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,python,cpp,mysql&perline=5" alt="Dev Skills" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <b>📡 Network, OS & Security</b><br><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,neovim,git,github,docker,discord&perline=4" alt="Sys Skills" />
-      </a><br><br>
-      <img src="https://img.shields.io/badge/MikroTik-000000?style=flat-square&logo=mikrotik&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laragon-00A9E0?style=flat-square&logo=linux&logoColor=white" />
-    </td>
-  </tr>
+<table width="100%">
+<tr><td>
+<img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
+</td></tr>
 </table>
 
-<br>
+<pre>
+$ exit
+> Connection closed.
+</pre>
 
-## 📊 `~ /var/log/github_metrics`
-
-<div align="center">
-  <!-- Trophies (Ramai tapi rapi) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=f0reest&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Stats & Top Languages Side by Side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=f0reest&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f0reest&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Langs" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Streak Counter -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f0reest&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Full Width Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=f0reest&bg_color=0D1117&color=00C3FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
-<br>
-
-## 🔗 `~ /etc/connections`
-
-<div align="center">
-  <a href="https://f0reest.netlify.app/"><img src="https://img.shields.io/badge/Portfolio_Web-0D1117?style=for-the-badge&logo=Netlify&logoColor=00C3FF&color=0D1117&labelColor=0D1117" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/alfa-putra-0554b8205"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=0D1117&labelColor=0D1117" alt="LinkedIn" /></a>
-  <a href="https://www.tiktok.com/@f0reest"><img src="https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=white&color=0D1117&labelColor=0D1117" alt="TikTok" /></a>
-  <a href="https://youtube.com/@f0reestfps"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000&color=0D1117&labelColor=0D1117" alt="YouTube" /></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF,8A2BE2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=footer"/>
 </div>
