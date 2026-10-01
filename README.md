@@ -145,10 +145,6 @@ $ open portfolio
 </tr>
 </table>
 
-### 🧩 LANGUAGE DISTRIBUTION
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=f0reest&layout=compact&hide_border=true&bg_color=000000&title_color=39ff14&text_color=39ff14" />
-</p>
 
 <table width="100%">
 <tr><td>
